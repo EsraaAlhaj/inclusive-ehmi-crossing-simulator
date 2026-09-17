@@ -1,0 +1,4 @@
+ParticipantID,TrialNumber,EHMICondition,InitialSpeed_kmh,Decision,DecisionLatency_s,CurrentSpeedAtDecision_mps,DistanceAtDecision_m,TimeToStop_s,ClarityRating,SafetyRating,Timestamp
+P001,1,None,50.0000,Cross,14.0782,0.0000,2.0000,0.0000,4,2,2026-09-17 14:00:39
+P001,2,Visual,30.0000,Cross,10.6248,0.0000,2.0000,0.0000,4,3,2026-09-17 14:02:23
+P001,3,Multimodal,30.0000,Cross,1.6662,3.3719,3.8949,1.1240,4,4,2026-09-17 14:05:58
